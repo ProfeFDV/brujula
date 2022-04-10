@@ -1,6 +1,10 @@
 
 > Abra esta pagina en [https://profefdv.github.io/brujula/](https://profefdv.github.io/brujula/)
 
+## Descripción 
+ Mostrar grados cuando se pulsa el boton "A".<br>
+ Mostrar los iconos del corazón latiendo siempre.
+ 
 ## Usar como extensión
 
 Este repositorio puede ser añadido como una **extensión** en MakeCode.
